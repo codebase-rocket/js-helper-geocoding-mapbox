@@ -1,0 +1,21 @@
+# package directories
+node_modules
+package-lock.json
+jspm_packages
+
+# Registry files
+_test/.npmrc
+
+# package directories in test
+_test/node_modules
+_test/package-lock.json
+_test/jspm_packages
+
+# Serverless directories
+.serverless
+
+# Mac OS Files
+*.DS_Store
+.AppleDouble
+.LSOverride
+._*

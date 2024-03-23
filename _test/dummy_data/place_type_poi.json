@@ -1,0 +1,311 @@
+{
+    "type": "FeatureCollection",
+    "query": [
+        "abate",
+        "pizza"
+    ],
+    "features": [
+        {
+            "id": "poi.197568499743",
+            "type": "Feature",
+            "place_type": [
+                "poi"
+            ],
+            "relevance": 0.954545,
+            "properties": {
+                "foursquare": "4b058678f964a520586322e3",
+                "landmark": true,
+                "address": "129 Wooster St",
+                "category": "pizza, pizza parlor, restaurant"
+            },
+            "text": "Abaté Apizza & Restaurant",
+            "place_name": "Abaté Apizza & Restaurant, 129 Wooster St, New Haven, Connecticut 06511, United States",
+            "center": [
+                -72.916047,
+                41.303087
+            ],
+            "geometry": {
+                "coordinates": [
+                    -72.916047,
+                    41.303087
+                ],
+                "type": "Point"
+            },
+            "context": [
+                {
+                    "id": "neighborhood.291430",
+                    "text": "Wooster Square"
+                },
+                {
+                    "id": "postcode.12503297148079610",
+                    "text": "06511"
+                },
+                {
+                    "id": "place.9754137160152260",
+                    "wikidata": "Q49145",
+                    "text": "New Haven"
+                },
+                {
+                    "id": "district.6362316082152260",
+                    "wikidata": "Q54234",
+                    "text": "New Haven County"
+                },
+                {
+                    "id": "region.9926898961180480",
+                    "wikidata": "Q779",
+                    "short_code": "US-CT",
+                    "text": "Connecticut"
+                },
+                {
+                    "id": "country.19678805456372290",
+                    "wikidata": "Q30",
+                    "short_code": "us",
+                    "text": "United States"
+                }
+            ]
+        },
+        {
+            "id": "poi.515396122593",
+            "type": "Feature",
+            "place_type": [
+                "poi"
+            ],
+            "relevance": 0.5,
+            "properties": {
+                "foursquare": "4bc0ea4f2a89ef3b3c6ef188",
+                "landmark": true,
+                "address": "371 Grand St",
+                "category": "education, school",
+                "maki": "school"
+            },
+            "text": "Pizza a Casa Pizza School",
+            "place_name": "Pizza a Casa Pizza School, 371 Grand St, New York, New York 10002, United States",
+            "center": [
+                -73.988768,
+                40.716618
+            ],
+            "geometry": {
+                "coordinates": [
+                    -73.988768,
+                    40.716618
+                ],
+                "type": "Point"
+            },
+            "context": [
+                {
+                    "id": "neighborhood.2103314",
+                    "text": "Lower East Side"
+                },
+                {
+                    "id": "postcode.14648877886770320",
+                    "text": "10002"
+                },
+                {
+                    "id": "locality.12696928000137850",
+                    "wikidata": "Q11299",
+                    "text": "Manhattan"
+                },
+                {
+                    "id": "place.2618194975964500",
+                    "wikidata": "Q60",
+                    "text": "New York"
+                },
+                {
+                    "id": "district.12113562209855570",
+                    "wikidata": "Q500416",
+                    "text": "New York County"
+                },
+                {
+                    "id": "region.17349986251855570",
+                    "wikidata": "Q1384",
+                    "short_code": "US-NY",
+                    "text": "New York"
+                },
+                {
+                    "id": "country.19678805456372290",
+                    "wikidata": "Q30",
+                    "short_code": "us",
+                    "text": "United States"
+                }
+            ]
+        },
+        {
+            "id": "poi.420906902659",
+            "type": "Feature",
+            "place_type": [
+                "poi"
+            ],
+            "relevance": 0.5,
+            "properties": {
+                "foursquare": "4fb7ee09e4b0d7125660d337",
+                "landmark": true,
+                "address": "1118 H St NE",
+                "category": "vegetarian, vegan, vegetarian food, vegan food, vegetarian restaurant, vegan restaurant, restaurant"
+            },
+            "text": "&pizza",
+            "place_name": "&pizza, 1118 H St NE, Washington, District of Columbia 20002, United States",
+            "center": [
+                -76.990781,
+                38.900378
+            ],
+            "geometry": {
+                "coordinates": [
+                    -76.990781,
+                    38.900378
+                ],
+                "type": "Point"
+            },
+            "context": [
+                {
+                    "id": "neighborhood.291461",
+                    "text": "Near Northeast"
+                },
+                {
+                    "id": "postcode.8356485856998370",
+                    "text": "20002"
+                },
+                {
+                    "id": "place.12583600763246050",
+                    "wikidata": "Q61",
+                    "text": "Washington"
+                },
+                {
+                    "id": "region.14064402149979320",
+                    "wikidata": "Q3551781",
+                    "short_code": "US-DC",
+                    "text": "District of Columbia"
+                },
+                {
+                    "id": "country.19678805456372290",
+                    "wikidata": "Q30",
+                    "short_code": "us",
+                    "text": "United States"
+                }
+            ]
+        },
+        {
+            "id": "poi.94489342283",
+            "type": "Feature",
+            "place_type": [
+                "poi"
+            ],
+            "relevance": 0.5,
+            "properties": {
+                "foursquare": "4af27030f964a520b7e721e3",
+                "landmark": true,
+                "address": "863 Washington Ave",
+                "category": "italian restaurant, italian food, restaurant"
+            },
+            "text": "Pizza Rustica",
+            "place_name": "Pizza Rustica, 863 Washington Ave, Miami Beach, Florida 33139, United States",
+            "center": [
+                -80.132939,
+                25.779449
+            ],
+            "geometry": {
+                "coordinates": [
+                    -80.132939,
+                    25.779449
+                ],
+                "type": "Point"
+            },
+            "context": [
+                {
+                    "id": "neighborhood.295862",
+                    "text": "Flamingo Lummus"
+                },
+                {
+                    "id": "postcode.5050026708353880",
+                    "text": "33139"
+                },
+                {
+                    "id": "place.8230359580965480",
+                    "wikidata": "Q201516",
+                    "text": "Miami Beach"
+                },
+                {
+                    "id": "district.2681493175149130",
+                    "wikidata": "Q468557",
+                    "text": "Miami-Dade County"
+                },
+                {
+                    "id": "region.7862008843235010",
+                    "wikidata": "Q812",
+                    "short_code": "US-FL",
+                    "text": "Florida"
+                },
+                {
+                    "id": "country.19678805456372290",
+                    "wikidata": "Q30",
+                    "short_code": "us",
+                    "text": "United States"
+                }
+            ]
+        },
+        {
+            "id": "poi.1168231112472",
+            "type": "Feature",
+            "place_type": [
+                "poi"
+            ],
+            "relevance": 0.5,
+            "properties": {
+                "foursquare": "53370455498e18d7e6607a1d",
+                "landmark": true,
+                "address": "200 5th Ave",
+                "category": "italian restaurant, italian food, restaurant"
+            },
+            "text": "La Pizza & La Pasta",
+            "place_name": "La Pizza & La Pasta, 200 5th Ave, New York, New York 10010, United States",
+            "center": [
+                -73.989983,
+                40.742449
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.989983,
+                    40.742449
+                ]
+            },
+            "context": [
+                {
+                    "id": "neighborhood.2103305",
+                    "text": "Flatiron District"
+                },
+                {
+                    "id": "postcode.8966449084976670",
+                    "text": "10010"
+                },
+                {
+                    "id": "locality.12696928000137850",
+                    "wikidata": "Q11299",
+                    "text": "Manhattan"
+                },
+                {
+                    "id": "place.2618194975964500",
+                    "wikidata": "Q60",
+                    "text": "New York"
+                },
+                {
+                    "id": "district.12113562209855570",
+                    "wikidata": "Q500416",
+                    "text": "New York County"
+                },
+                {
+                    "id": "region.17349986251855570",
+                    "wikidata": "Q1384",
+                    "short_code": "US-NY",
+                    "text": "New York"
+                },
+                {
+                    "id": "country.19678805456372290",
+                    "wikidata": "Q30",
+                    "short_code": "us",
+                    "text": "United States"
+                }
+            ]
+        }
+    ],
+    "attribution": "NOTICE: © 2021 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service (https://www.mapbox.com/about/maps/). This response and the information it contains may not be retained. POI(s) provided by Foursquare."
+}

@@ -1,0 +1,290 @@
+
+{
+    "type": "FeatureCollection",
+    "query": [
+        "106",
+        "boston",
+        "post",
+        "rd",
+        "c",
+        "orange",
+        "ct",
+        "06477",
+        "united",
+        "states"
+    ],
+    "features": [
+        {
+            "id": "address.00064773233069",
+            "type": "Feature",
+            "place_type": [
+                "address"
+            ],
+            "relevance": 1,
+            "address": "106",
+            "text": "Boston Post Rd",
+            "place_name": "106 Boston Post Rd, Orange, Connecticut 06477, United States",
+            "center": [
+                -72.98759,
+                41.27779
+            ],
+            "properties": {
+                "accuracy": "approximate"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.98759,
+                    41.27779
+                ]
+            },
+            "context": [
+                {
+                    "id": "postcode.11641081477361940",
+                    "text": "06477"
+                },
+                {
+                    "id": "place.2509349322353400",
+                    "wikidata": "Q754766",
+                    "text": "Orange"
+                },
+                {
+                    "id": "district.6362316082152260",
+                    "wikidata": "Q54234",
+                    "text": "New Haven County"
+                },
+                {
+                    "id": "region.9926898961180480",
+                    "wikidata": "Q779",
+                    "short_code": "US-CT",
+                    "text": "Connecticut"
+                },
+                {
+                    "id": "country.19678805456372290",
+                    "wikidata": "Q30",
+                    "short_code": "us",
+                    "text": "United States"
+                }
+            ]
+        },
+        {
+            "id": "address.5023021975187494",
+            "type": "Feature",
+            "place_type": [
+                "address"
+            ],
+            "relevance": 0.862963,
+            "properties": {
+                "accuracy": "interpolated"
+            },
+            "text": "Boston Post Road",
+            "place_name": "106 Boston Post Road, Orange, Connecticut 06477, United States",
+            "matching_place_name": "106 Boston Post Road, Orange, Connecticut 06477, United States of America",
+            "center": [
+                -72.989161,
+                41.276875
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.989161,
+                    41.276875
+                ],
+                "interpolated": true,
+                "omitted": true
+            },
+            "address": "106",
+            "context": [
+                {
+                    "id": "postcode.11641081477361940",
+                    "text": "06477"
+                },
+                {
+                    "id": "place.2509349322353400",
+                    "wikidata": "Q754766",
+                    "text": "Orange"
+                },
+                {
+                    "id": "district.6362316082152260",
+                    "wikidata": "Q54234",
+                    "text": "New Haven County"
+                },
+                {
+                    "id": "region.9926898961180480",
+                    "wikidata": "Q779",
+                    "short_code": "US-CT",
+                    "text": "Connecticut"
+                },
+                {
+                    "id": "country.19678805456372290",
+                    "wikidata": "Q30",
+                    "short_code": "us",
+                    "text": "United States"
+                }
+            ]
+        },
+        {
+            "id": "address.5858172611189100",
+            "type": "Feature",
+            "place_type": [
+                "address"
+            ],
+            "relevance": 0.775,
+            "properties": {
+                "accuracy": "point"
+            },
+            "text": "Boston Post Road",
+            "place_name": "106 Boston Post Road, Waterford, Connecticut 06385, United States",
+            "center": [
+                -72.123573,
+                41.341181
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.123573,
+                    41.341181
+                ]
+            },
+            "address": "106",
+            "context": [
+                {
+                    "id": "postcode.4812753533845320",
+                    "text": "06385"
+                },
+                {
+                    "id": "place.9258040889257940",
+                    "wikidata": "Q1898623",
+                    "text": "Waterford"
+                },
+                {
+                    "id": "district.13433192355769530",
+                    "wikidata": "Q54240",
+                    "text": "New London County"
+                },
+                {
+                    "id": "region.9926898961180480",
+                    "wikidata": "Q779",
+                    "short_code": "US-CT",
+                    "text": "Connecticut"
+                },
+                {
+                    "id": "country.19678805456372290",
+                    "wikidata": "Q30",
+                    "short_code": "us",
+                    "text": "United States"
+                }
+            ]
+        },
+        {
+            "id": "address.3143931201205444",
+            "type": "Feature",
+            "place_type": [
+                "address"
+            ],
+            "relevance": 0.727778,
+            "properties": {
+                "accuracy": "rooftop"
+            },
+            "text": "Boston Post Road",
+            "place_name": "106 Boston Post Road, Old Lyme, Connecticut 06371, United States",
+            "matching_place_name": "106 Boston Post Road, Old Lyme, Connecticut 06371, United States of America",
+            "center": [
+                -72.307597,
+                41.34222
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.307597,
+                    41.34222
+                ]
+            },
+            "address": "106",
+            "context": [
+                {
+                    "id": "postcode.7413591378266590",
+                    "text": "06371"
+                },
+                {
+                    "id": "place.2672228812653170",
+                    "wikidata": "Q1980190",
+                    "text": "Old Lyme"
+                },
+                {
+                    "id": "district.13433192355769530",
+                    "wikidata": "Q54240",
+                    "text": "New London County"
+                },
+                {
+                    "id": "region.9926898961180480",
+                    "wikidata": "Q779",
+                    "short_code": "US-CT",
+                    "text": "Connecticut"
+                },
+                {
+                    "id": "country.19678805456372290",
+                    "wikidata": "Q30",
+                    "short_code": "us",
+                    "text": "United States"
+                }
+            ]
+        },
+        {
+            "id": "address.8625019769412528",
+            "type": "Feature",
+            "place_type": [
+                "address"
+            ],
+            "relevance": 0.727778,
+            "properties": {
+                "accuracy": "interpolated"
+            },
+            "text": "Boston Post Road",
+            "place_name": "106 Boston Post Road, Old Saybrook, Connecticut 06475, United States",
+            "matching_place_name": "106 Boston Post Road, Old Saybrook, Connecticut 06475, United States of America",
+            "center": [
+                -72.363935,
+                41.312014
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.363935,
+                    41.312014
+                ],
+                "interpolated": true
+            },
+            "address": "106",
+            "context": [
+                {
+                    "id": "postcode.10474291321072740",
+                    "text": "06475"
+                },
+                {
+                    "id": "place.12608540852376470",
+                    "wikidata": "Q1020609",
+                    "text": "Old Saybrook"
+                },
+                {
+                    "id": "district.5847302020892290",
+                    "wikidata": "Q54238",
+                    "text": "Middlesex County"
+                },
+                {
+                    "id": "region.9926898961180480",
+                    "wikidata": "Q779",
+                    "short_code": "US-CT",
+                    "text": "Connecticut"
+                },
+                {
+                    "id": "country.19678805456372290",
+                    "wikidata": "Q30",
+                    "short_code": "us",
+                    "text": "United States"
+                }
+            ]
+        }
+    ],
+    "attribution": "NOTICE: © 2021 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service (https://www.mapbox.com/about/maps/). This response and the information it contains may not be retained. POI(s) provided by Foursquare."
+}
